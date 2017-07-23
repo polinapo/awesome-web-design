@@ -1,7 +1,6 @@
 # Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome resources for digital designers.
 
-**Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/@nicolesaidy). ✨**
 
 ## Contents
 
@@ -131,10 +130,6 @@
 * [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 * [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 * [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
-
-## Share
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
-* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
